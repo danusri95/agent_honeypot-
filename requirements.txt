@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+web3>=6.0.0
+pydantic
+python-dotenv
